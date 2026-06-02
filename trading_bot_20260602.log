@@ -1,0 +1,10 @@
+2026-06-02 06:21:59 | INFO     | bot.client | Logger initialised. Log file: logs\trading_bot_20260602.log
+2026-06-02 06:21:59 | INFO     | bot.orders | Logger initialised. Log file: logs\trading_bot_20260602.log
+2026-06-02 06:21:59 | INFO     | __main__ | Logger initialised. Log file: logs\trading_bot_20260602.log
+2026-06-02 06:22:19 | INFO     | bot.client | Logger initialised. Log file: logs\trading_bot_20260602.log
+2026-06-02 06:22:19 | INFO     | bot.orders | Logger initialised. Log file: logs\trading_bot_20260602.log
+2026-06-02 06:22:20 | INFO     | __main__ | Logger initialised. Log file: logs\trading_bot_20260602.log
+2026-06-02 06:22:40 | INFO     | bot.client | Logger initialised. Log file: logs\trading_bot_20260602.log
+2026-06-02 06:22:40 | INFO     | bot.orders | Logger initialised. Log file: logs\trading_bot_20260602.log
+2026-06-02 06:22:40 | INFO     | __main__ | Logger initialised. Log file: logs\trading_bot_20260602.log
+2026-06-02 06:22:40 | WARNING  | __main__ | Validation failed: Price is required for STOP_MARKET orders.
